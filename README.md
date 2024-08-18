@@ -63,7 +63,7 @@ Before you begin, ensure you have the following installed:
 ```plaintext
 ├── public/
 │   ├── style.css          # Custom CSS styles for the UI
-│   ├── app.js             # Client-side JavaScript
+│   ├── script.js          # Client-side JavaScript
 │   └── index.html         # Main HTML file
 ├── .env                   # Environment variables
 ├── .patterns              # Injection patterns for input sanitization
