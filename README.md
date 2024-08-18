@@ -14,7 +14,7 @@ The AI Answer Evaluation Platform is a web-based application that allows users t
 
 ## Demo Site
 
-You can view a live demo of this site at: [ai-answer-evaluation-gciy.onrender.com/](https://ai-answer-evaluation-gciy.onrender.com/)
+You can view a live demo of this site at: [ai-answer-evaluation-gciy.onrender.com](https://ai-answer-evaluation-gciy.onrender.com/)
 
 ## Getting Started
 
