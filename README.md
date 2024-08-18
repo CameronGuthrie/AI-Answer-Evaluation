@@ -12,6 +12,10 @@ The AI Answer Evaluation Platform is a web-based application that allows users t
 - **Secure and Reliable:** Implements input sanitization to prevent prompt injection attacks and other security vulnerabilities.
 - **Professional UI:** A clean, modern, and responsive user interface designed for an optimal user experience.
 
+## Demo Site
+
+You can view a live demo of this site at: [ai-answer-evaluation-gciy.onrender.com/](https://ai-answer-evaluation-gciy.onrender.com/)
+
 ## Getting Started
 
 ### Prerequisites
@@ -91,3 +95,4 @@ Before you begin, ensure you have the following installed:
 
 - [OpenAI](https://openai.com) for providing the GPT-3.5-turbo model.
 - [Node.js](https://nodejs.org) for the runtime environment.
+- [Render](https://www.render.com/) for reliable and free hosting.
